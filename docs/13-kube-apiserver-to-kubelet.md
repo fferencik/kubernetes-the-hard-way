@@ -53,6 +53,7 @@ subjects:
     name: kube-apiserver
 EOF
 ```
+Wrong link here:
 Reference: https://v1-12.docs.kubernetes.io/docs/reference/access-authn-authz/rbac/#rolebinding-and-clusterrolebinding
 
 Next: [DNS Addon](14-dns-addon.md)
